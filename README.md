@@ -8,4 +8,4 @@ We hope that 360 will go die.It makes millions of people get in the trouble of f
 Unpack master.zip and start "VMC Killer.cmd" as administrator.You may get a pop-ups that let you choose which software do you open .vbs .Choose "Microsoft Windows Based Script Host" and Hold "Enter".
 
 # Join Us
-Contact with jasonmo2009@hotmail.com ant join us.
+Contact with jasonmo2009@hotmail.com and join us.
